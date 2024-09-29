@@ -10,5 +10,8 @@ For inquiries regarding the new method, contact me on Telegram:
 
 
 
-https://github.com/user-attachments/assets/34b7a6ef-bb7c-45f0-acd8-69ff9a2e4207
+
+https://github.com/user-attachments/assets/c593b495-ed90-49fe-8585-bbee4e485ab3
+
+
 
