@@ -1,17 +1,12 @@
-# MEXC Future Order API Maintenance Bypass
+# MEXC Futures Order API Maintenance Bypass
 
-
-For anyone who wants a method to bypass the MEXC futures order maintenance mode, contact me on [Telegram](https://t.me/pip_install_life). I have created Python and JavaScript versions, and I can provide other languages upon request.
-
-
+If you're looking for a method to bypass the MEXC futures order maintenance mode, feel free to reach out to me on [Telegram](https://t.me/pip_install_life) or Discord (username: asmail96). I have developed solutions in both Python and JavaScript, and can provide implementations in other languages upon request. This script is available for purchase.
 
 ## Video Proof
 
-
-https://github.com/user-attachments/assets/c593b495-ed90-49fe-8585-bbee4e485ab3
-
-
+[![Watch Video](https://github.com/user-attachments/assets/c593b495-ed90-49fe-8585-bbee4e485ab3)](https://github.com/user-attachments/assets/c593b495-ed90-49fe-8585-bbee4e485ab3)
 
 ## Contact
 
-[Telegram](https://t.me/pip_install_life)
+- [Telegram](https://t.me/pip_install_life)
+- Discord: asmail96
