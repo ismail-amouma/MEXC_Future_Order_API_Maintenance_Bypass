@@ -4,7 +4,10 @@ If you're looking for a method to bypass the MEXC futures order maintenance mode
 
 ## Video Proof
 
-[![Watch Video](https://github.com/user-attachments/assets/c593b495-ed90-49fe-8585-bbee4e485ab3)](https://github.com/user-attachments/assets/c593b495-ed90-49fe-8585-bbee4e485ab3)
+[![Watch Video](https://github.com/user-attachments/assets/6901b985-aa9a-4229-81aa-5301f4f41983)](https://github.com/user-attachments/assets/6901b985-aa9a-4229-81aa-5301f4f41983)
+
+
+
 
 ## Contact
 
