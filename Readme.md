@@ -28,7 +28,3 @@ https://github.com/user-attachments/assets/a38e4b30-8e61-4a28-9f50-b7d69e3887ed
 
 - [Telegram](https://t.me/pip_install_life)
 - Discord: **asmail96**
-## Contact
-
-- [Telegram](https://t.me/pip_install_life)
-- Discord: **asmail96**
